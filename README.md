@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00F0FF&background=05050500&center=true&vCenter=true&width=800&lines=Building+machines+that+can+see,+think+%26+act;Robotics+Engineer+•+AI+Researcher;Hardware+×+Software+×+Intelligence;Engineering+intelligent+systems+for+the+real+world)](https://git.io/typing-svg)
 
-</a>
-
 </div>
 
 <br>
@@ -216,12 +214,12 @@ SENSE → THINK → ACT
 ### ░ GITHUB LIVE METRICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aronchacko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" alt="ARON.OS GitHub Stats" width="48%">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aronchacko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" alt="ARON.OS GitHub Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aronchacko&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" alt="ARON.OS GitHub Streak" width="48%">
   
   <br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aronchacko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" alt="ARON.OS Top Languages">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=aronchacko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" alt="ARON.OS Top Languages">
 </div>
 
 ### ░ CONTRIBUTION MATRIX
