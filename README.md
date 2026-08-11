@@ -2,8 +2,8 @@
 
 <img src="header.svg" alt="ARON.OS Header" width="100%">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00F0FF&background=05050500&center=true&vCenter=true&width=800&lines=Building+machines+that+can+see,+think+%26+act;Robotics+Engineer+•+AI+Researcher;Hardware+×+Software+×+Intelligence;Engineering+intelligent+systems+for+the+real+world" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00F0FF&background=05050500&center=true&vCenter=true&width=800&lines=Building+machines+that+can+see,+think+%26+act;Robotics+Engineer+•+AI+Researcher;Hardware+×+Software+×+Intelligence;Engineering+intelligent+systems+for+the+real+world)](https://git.io/typing-svg)
+
 </a>
 
 </div>
