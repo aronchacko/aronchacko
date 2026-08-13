@@ -47,7 +47,7 @@
   
   <br><br>
   
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,ros,opencv,tensorflow,pytorch,linux,git,docker,arduino,raspberrypi&theme=dark&perline=7" alt="Robotics & AI Skills">
+  <img src="top-langs.svg" alt="ARON.OS Top Languages">
 </div>
 
 <div align="center">
