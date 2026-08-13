@@ -266,15 +266,14 @@ SENSE → THINK → ACT
 </div>
 
 <div align="center">
-  
   <a href="https://aronchacko.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-ARON.OS-00F0FF?style=for-the-badge&logo=Web&logoColor=black&color=0D1117&labelColor=00F0FF" alt="Portfolio">
+    <img src="badge-portfolio.svg" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/aron-chacko-331029148/">
-    <img src="https://img.shields.io/badge/LINKEDIN-NETWORK-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black&color=0D1117&labelColor=00F0FF" alt="LinkedIn">
+    <img src="badge-linkedin.svg" alt="LinkedIn">
   </a>
   <a href="https://github.com/aronchacko">
-    <img src="https://img.shields.io/badge/GITHUB-SOURCE-00F0FF?style=for-the-badge&logo=github&logoColor=black&color=0D1117&labelColor=00F0FF" alt="GitHub">
+    <img src="badge-github.svg" alt="GitHub">
   </a>
 
 </div>
