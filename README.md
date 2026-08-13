@@ -9,21 +9,7 @@
 <br>
 
 <div align="center">
-<pre>
-┌─────────────────────────────────────────────────────────────┐
-│ ARON.OS // SYSTEM TERMINAL                                  │
-├─────────────────────────────────────────────────────────────┤
-│ $ initialize aron.os                                        │
-│                                                             │
-│ > loading robotics modules...                      [OK]     │
-│ > initializing vision engine...                    [OK]     │
-│ > connecting embedded systems...                   [OK]     │
-│ > loading AI models...                             [OK]     │
-│ > automation core online                           [OK]     │
-│                                                             │
-│ SYSTEM STATUS: ONLINE                                       │
-└─────────────────────────────────────────────────────────────┘
-</pre>
+<img src="terminal.svg" alt="ARON.OS System Terminal" width="100%">
 </div>
 
 ### ░ IDENTITY
