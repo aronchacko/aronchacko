@@ -176,11 +176,11 @@ Autonomous mobile robot using Intel RealSense D455 and LiDAR for real-time spati
 STATUS: ACTIVE
 DOMAIN: AUTOMATION
 ```
-#### [INDUSTRIAL ROBOTIC AUTOMATION](https://github.com/aronchacko/placeholder-industrial-robot)
-**Robotic Arms × Machine Vision × Automation**
+#### [ROBOBOOTH AI SYSTEM](https://github.com/aronchacko/robobooth-ai-system)
+**Cinematic Robotic Automation × AI Processing**
 
-End-to-end 6-axis robotic arm automation for precise handling and assembly tasks, utilizing machine vision for part localization.
-`6-axis` `Machine Vision` `Robot Control` `Industrial Automation`
+Fully automated, AI-powered system that captures cinematic branded videos using a 6-axis robotic arm, processing them instantly via Edge AI.
+`6-axis` `Machine Vision` `ROS2` `Python` `OpenCV`
 </td>
 </tr>
 <tr>
