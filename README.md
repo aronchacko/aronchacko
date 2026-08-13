@@ -32,6 +32,40 @@
 
 `SENSE → THINK → DECIDE → ACT`
 
+### ░ TECH STACK
+
+<div align="center">
+
+| CATEGORY | TECHNOLOGIES |
+|:---|:---|
+| **LANGUAGES** | <img src="https://skillicons.dev/icons?i=python,cpp,c,bash&theme=dark" alt="Languages"> |
+| **AI / ML** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="AI/ML"> |
+| **ROBOTICS** | <img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi&theme=dark" alt="Robotics"> |
+| **SOFTWARE** | <img src="https://skillicons.dev/icons?i=fastapi,flask,git,githubactions,docker&theme=dark" alt="Software"> |
+| **DESIGN** | <img src="https://skillicons.dev/icons?i=figma,blender&theme=dark" alt="Design"> |
+
+*Note: Some custom robotics/AI icons are represented by their broader categories or text tags above to maintain visual consistency.*
+</div>
+
+### ░ GITHUB LIVE METRICS
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aronchacko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" alt="ARON.OS GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aronchacko&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" alt="ARON.OS GitHub Streak" width="48%">
+  
+  <br><br>
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=aronchacko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" alt="ARON.OS Top Languages">
+</div>
+
+### ░ CONTRIBUTION MATRIX
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aronchacko/aronchacko/output/github-contribution-grid-snake-dark.svg" alt="ARON.OS Contribution Matrix">
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=aronchacko&label=PROFILE+VIEWS&color=00F0FF&style=flat" alt="Profile Views">
+</div>
+
 ### ░ WHAT I BUILD
 
 <table>
@@ -195,40 +229,6 @@ Motors / Arms / Actuators
    ↓
 SENSE → THINK → ACT
 ```
-
-### ░ TECH STACK
-
-<div align="center">
-
-| CATEGORY | TECHNOLOGIES |
-|:---|:---|
-| **LANGUAGES** | <img src="https://skillicons.dev/icons?i=python,cpp,c,bash&theme=dark" alt="Languages"> |
-| **AI / ML** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="AI/ML"> |
-| **ROBOTICS** | <img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi&theme=dark" alt="Robotics"> |
-| **SOFTWARE** | <img src="https://skillicons.dev/icons?i=fastapi,flask,git,githubactions,docker&theme=dark" alt="Software"> |
-| **DESIGN** | <img src="https://skillicons.dev/icons?i=figma,blender&theme=dark" alt="Design"> |
-
-*Note: Some custom robotics/AI icons are represented by their broader categories or text tags above to maintain visual consistency.*
-</div>
-
-### ░ GITHUB LIVE METRICS
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aronchacko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" alt="ARON.OS GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aronchacko&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" alt="ARON.OS GitHub Streak" width="48%">
-  
-  <br><br>
-  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=aronchacko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" alt="ARON.OS Top Languages">
-</div>
-
-### ░ CONTRIBUTION MATRIX
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aronchacko/aronchacko/output/github-contribution-grid-snake-dark.svg" alt="ARON.OS Contribution Matrix">
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=aronchacko&label=PROFILE+VIEWS&color=00F0FF&style=flat" alt="Profile Views">
-</div>
 
 ### ░ ENGINEERING PRINCIPLES
 
