@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="165" viewBox="0 0 300 165" fill="none" role="img">
+  <title>Top Languages</title>
+  <style>
+    .header { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #00F0FF; }
+    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
+  </style>
+  <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="299" fill="#0D1117" stroke-opacity="0"/>
+  <g data-testid="card-title" transform="translate(25, 35)">
+    <g transform="translate(0, 0)">
+      <text x="0" y="0" class="header" data-testid="header">My Programming Languages</text>
+    </g>
+  </g>
+  
+  <mask id="bar-mask">
+    <rect x="25" y="55" width="250" height="8" fill="white" rx="4"/>
+  </mask>
+  <g mask="url(#bar-mask)">
+    <rect x="25" y="55" width="100" height="8" fill="#3572A5"/>
+    <rect x="125" y="55" width="75" height="8" fill="#f34b7d"/>
+    <rect x="200" y="55" width="37.5" height="8" fill="#555555"/>
+    <rect x="237.5" y="55" width="25" height="8" fill="#89e051"/>
+    <rect x="262.5" y="55" width="12.5" height="8" fill="#22314E"/>
+  </g>
+
+  <g transform="translate(25, 90)">
+    <circle cx="5" cy="6" r="5" fill="#3572A5"/>
+    <text x="15" y="10" class="lang-name">Python (40.00%)</text>
+  </g>
+  <g transform="translate(25, 120)">
+    <circle cx="5" cy="6" r="5" fill="#555555"/>
+    <text x="15" y="10" class="lang-name">C (15.00%)</text>
+  </g>
+  <g transform="translate(25, 150)">
+    <circle cx="5" cy="6" r="5" fill="#22314E"/>
+    <text x="15" y="10" class="lang-name">ROS (5.00%)</text>
+  </g>
+
+  <g transform="translate(150, 90)">
+    <circle cx="5" cy="6" r="5" fill="#f34b7d"/>
+    <text x="15" y="10" class="lang-name">C++ (30.00%)</text>
+  </g>
+  <g transform="translate(150, 120)">
+    <circle cx="5" cy="6" r="5" fill="#89e051"/>
+    <text x="15" y="10" class="lang-name">Shell (10.00%)</text>
+  </g>
+</svg>
