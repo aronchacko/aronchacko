@@ -47,7 +47,7 @@
   
   <br><br>
   
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=aronchacko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&hide=html,css,scss,less&v=3" alt="ARON.OS Top Languages">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,ros,opencv,tensorflow,pytorch,linux,git,docker,arduino,raspberrypi&theme=dark&perline=7" alt="Robotics & AI Skills">
 </div>
 
 <div align="center">
