@@ -13,10 +13,10 @@
     </filter>
   </defs>
 
-  <g transform="translate(400, 50)" text-anchor="middle">
-    <text x="-40" y="0" class="title" filter="url(#glow)">[ SYSTEM STATUS ]</text>
-    <text x="80" y="0" class="status">ONLINE</text>
-    <circle cx="130" cy="-6" r="5" fill="#00F0FF" filter="url(#glow)">
+  <g transform="translate(400, 50)">
+    <text x="-10" y="0" text-anchor="end" class="title" filter="url(#glow)">[ SYSTEM STATUS ]</text>
+    <text x="10" y="0" text-anchor="start" class="status">ONLINE</text>
+    <circle cx="95" cy="-6" r="5" fill="#00F0FF" filter="url(#glow)">
       <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
     </circle>
   </g>
