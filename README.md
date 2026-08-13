@@ -12,11 +12,9 @@
 <img src="terminal.svg" alt="ARON.OS System Terminal" width="100%">
 </div>
 
-### ░ IDENTITY
-
-> **I build intelligent machines and end-to-end automation systems at the intersection of robotics, AI, computer vision and embedded systems.**
-
-`SENSE → THINK → DECIDE → ACT`
+<div align="center">
+  <img src="identity.svg" alt="Identity" width="100%">
+</div>
 
 ### ░ TECH STACK
 
