@@ -16,7 +16,11 @@
   <img src="identity.svg" alt="Identity" width="100%">
 </div>
 
-### ░ TECH STACK
+<div align="center">
+  <img src="divider.svg" alt="Divider" width="100%">
+  <br><br>
+  <img src="header-tech-stack.svg" alt="TECH STACK" width="100%">
+</div>
 
 <div align="center">
 
@@ -31,7 +35,11 @@
 *Note: Some custom robotics/AI icons are represented by their broader categories or text tags above to maintain visual consistency.*
 </div>
 
-### ░ GITHUB LIVE METRICS
+<div align="center">
+  <img src="divider.svg" alt="Divider" width="100%">
+  <br><br>
+  <img src="header-metrics.svg" alt="GITHUB LIVE METRICS" width="100%">
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aronchacko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" alt="ARON.OS GitHub Stats" width="48%">
@@ -42,7 +50,11 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=aronchacko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" alt="ARON.OS Top Languages">
 </div>
 
-### ░ CONTRIBUTION MATRIX
+<div align="center">
+  <img src="divider.svg" alt="Divider" width="100%">
+  <br><br>
+  <img src="header-contribution.svg" alt="CONTRIBUTION MATRIX" width="100%">
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/aronchacko/aronchacko/output/github-contribution-grid-snake-dark.svg" alt="ARON.OS Contribution Matrix">
@@ -50,7 +62,11 @@
   <img src="https://komarev.com/ghpvc/?username=aronchacko&label=PROFILE+VIEWS&color=00F0FF&style=flat" alt="Profile Views">
 </div>
 
-### ░ WHAT I BUILD
+<div align="center">
+  <img src="divider.svg" alt="Divider" width="100%">
+  <br><br>
+  <img src="header-what-i-build.svg" alt="WHAT I BUILD" width="100%">
+</div>
 
 <table>
 <tr>
@@ -106,7 +122,11 @@
 </tr>
 </table>
 
-### ░ CURRENT MISSION
+<div align="center">
+  <img src="divider.svg" alt="Divider" width="100%">
+  <br><br>
+  <img src="header-mission.svg" alt="CURRENT MISSION" width="100%">
+</div>
 
 ```yaml
 MISSION_STATUS: ACTIVE
@@ -128,7 +148,11 @@ BUILDING:
 
 *<p align="right">"Don't just automate tasks.<br>Build systems that understand them."</p>*
 
-### ░ PROJECT CARDS
+<div align="center">
+  <img src="divider.svg" alt="Divider" width="100%">
+  <br><br>
+  <img src="header-projects.svg" alt="PROJECT CARDS" width="100%">
+</div>
 
 <table>
 <tr>
@@ -189,7 +213,11 @@ High-fidelity simulation environment mapped to physical robots to train reinforc
 </tr>
 </table>
 
-### ░ SYSTEM ARCHITECTURE
+<div align="center">
+  <img src="divider.svg" alt="Divider" width="100%">
+  <br><br>
+  <img src="header-architecture.svg" alt="SYSTEM ARCHITECTURE" width="100%">
+</div>
 
 ```text
 REAL WORLD
@@ -214,7 +242,11 @@ Motors / Arms / Actuators
 SENSE → THINK → ACT
 ```
 
-### ░ ENGINEERING PRINCIPLES
+<div align="center">
+  <img src="divider.svg" alt="Divider" width="100%">
+  <br><br>
+  <img src="header-principles.svg" alt="ENGINEERING PRINCIPLES" width="100%">
+</div>
 
 ```text
 01  Build systems, not just features.
@@ -227,7 +259,11 @@ SENSE → THINK → ACT
 08  Ship.
 ```
 
-### ░ CONNECT TO ARON.OS
+<div align="center">
+  <img src="divider.svg" alt="Divider" width="100%">
+  <br><br>
+  <img src="header-connect.svg" alt="CONNECT TO ARON.OS" width="100%">
+</div>
 
 <div align="center">
   
