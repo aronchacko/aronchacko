@@ -281,16 +281,5 @@ SENSE → THINK → ACT
 <br>
 
 <div align="center">
-
-```text
-SYSTEM STATUS: ONLINE
-
-BUILD.
-BREAK.
-LEARN.
-REBUILD.
-```
-
-*"Engineering intelligence into the physical world."*
-
+  <img src="footer.svg" alt="System Status Footer" width="100%">
 </div>
