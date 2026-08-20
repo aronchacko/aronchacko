@@ -43,7 +43,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aronchacko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" alt="ARON.OS GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aronchacko&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" alt="ARON.OS GitHub Streak" width="48%">
+
   
   <br><br>
   
