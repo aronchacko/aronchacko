@@ -191,7 +191,7 @@ Fully automated, AI-powered system that captures cinematic branded videos using 
 STATUS: ACTIVE
 DOMAIN: AI VISION
 ```
-#### [AI VISION SYSTEMS](https://github.com/aronchacko/placeholder-vision-system)
+#### [AI VISION SYSTEMS](https://github.com/aronchacko/ai-vision-system)
 **Computer Vision × Deep Learning**
 
 Real-time object detection and pose estimation system for edge devices, optimizing deep learning models for performance.
