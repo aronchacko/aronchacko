@@ -204,7 +204,7 @@ Real-time object detection and pose estimation system for edge devices, optimizi
 STATUS: ACTIVE
 DOMAIN: SIMULATION
 ```
-#### [AI + DIGITAL TWIN](https://github.com/aronchacko/placeholder-digital-twin)
+#### [AI + DIGITAL TWIN](https://github.com/aronchacko/digital-twin-ar)
 **AI × Robotics × Simulation**
 
 High-fidelity simulation environment mapped to physical robots to train reinforcement learning agents safely.
