@@ -2,7 +2,7 @@
 
 <img src="header.svg" alt="ARON.OS Header" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00F0FF&background=05050500&center=true&vCenter=true&width=800&lines=Building+machines+that+can+see,+think+%26+act;Robotics+Engineer+•+AI+Researcher;Hardware+×+Software+×+Intelligence;Engineering+intelligent+systems+for+the+real+world)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00F0FF&background=0A0F14&center=true&vCenter=true&width=800&height=45&lines=Building+machines+that+can+see,+think+%26+act;Robotics+Engineer+•+AI+Researcher;Hardware+×+Software+×+Intelligence;Engineering+intelligent+systems+for+the+real+world)](https://git.io/typing-svg)
 
 </div>
 
@@ -43,7 +43,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aronchacko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" alt="ARON.OS GitHub Stats" width="48%">
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aronchacko&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" alt="ARON.OS GitHub Streak" width="48%">
   
   <br><br>
   
@@ -144,142 +144,3 @@ BUILDING:
   → Vision-based automation
   → Scalable embedded platforms
   → Intelligent robotic workflows
-```
-
-*<p align="right">"Don't just automate tasks.<br>Build systems that understand them."</p>*
-
-<div align="center">
-  <img src="divider.svg" alt="Divider" width="100%">
-  <br><br>
-  <img src="header-projects.svg" alt="PROJECT CARDS" width="100%">
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-```text
-[ MODULE_01 ]
-STATUS: ACTIVE
-DOMAIN: ROBOTICS
-```
-#### [AUTONOMOUS INVENTORY ROBOT](https://github.com/aronchacko/placeholder-inventory-robot)
-**Computer Vision × Robotics × Edge AI**
-
-Autonomous mobile robot using Intel RealSense D455 and LiDAR for real-time spatial awareness and inventory tracking.
-`LiDAR` `YOLO` `Jetson Nano` `Raspberry Pi` `Arduino` `Python`
-</td>
-<td width="50%" valign="top">
-
-```text
-[ MODULE_02 ]
-STATUS: ACTIVE
-DOMAIN: AUTOMATION
-```
-#### [ROBOBOOTH AI SYSTEM](https://github.com/aronchacko/robobooth-ai-system)
-**Cinematic Robotic Automation × AI Processing**
-
-Fully automated, AI-powered system that captures cinematic branded videos using a 6-axis robotic arm, processing them instantly via Edge AI.
-`6-axis` `Machine Vision` `ROS2` `Python` `OpenCV`
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-```text
-[ MODULE_03 ]
-STATUS: ACTIVE
-DOMAIN: AI VISION
-```
-#### [AI VISION SYSTEMS](https://github.com/aronchacko/ai-vision-system)
-**Computer Vision × Deep Learning**
-
-Real-time object detection and pose estimation system for edge devices, optimizing deep learning models for performance.
-`OpenCV` `YOLO` `MediaPipe` `TensorFlow` `PyTorch`
-</td>
-<td width="50%" valign="top">
-
-```text
-[ MODULE_04 ]
-STATUS: ACTIVE
-DOMAIN: SIMULATION
-```
-#### [AI + DIGITAL TWIN](https://github.com/aronchacko/digital-twin-ar)
-**AI × Robotics × Simulation**
-
-High-fidelity simulation environment mapped to physical robots to train reinforcement learning agents safely.
-`ROS` `Simulation` `Digital Twin` `AI`
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="divider.svg" alt="Divider" width="100%">
-  <br><br>
-  <img src="header-architecture.svg" alt="SYSTEM ARCHITECTURE" width="100%">
-</div>
-
-```text
-REAL WORLD
-   ↓
-SENSORS / CAMERAS
-   ↓
-PERCEPTION
-OpenCV / YOLO / Vision AI
-   ↓
-INTELLIGENCE
-ML / DL / LLM
-   ↓
-DECISION ENGINE
-Planning / Logic
-   ↓
-CONTROL
-ROS / Embedded / APIs
-   ↓
-ROBOT
-Motors / Arms / Actuators
-   ↓
-SENSE → THINK → ACT
-```
-
-<div align="center">
-  <img src="divider.svg" alt="Divider" width="100%">
-  <br><br>
-  <img src="header-principles.svg" alt="ENGINEERING PRINCIPLES" width="100%">
-</div>
-
-```text
-01  Build systems, not just features.
-02  Hardware and software should speak the same language.
-03  AI becomes powerful when it interacts with the physical world.
-04  Prototype fast.
-05  Understand why things break.
-06  Automate the repetitive.
-07  Keep learning.
-08  Ship.
-```
-
-<div align="center">
-  <img src="divider.svg" alt="Divider" width="100%">
-  <br><br>
-  <img src="header-connect.svg" alt="CONNECT TO ARON.OS" width="100%">
-</div>
-
-<div align="center">
-  <a href="https://aronchacko.github.io/portfolio/">
-    <img src="badge-portfolio.svg" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/aron-chacko-331029148/">
-    <img src="badge-linkedin.svg" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/aronchacko">
-    <img src="badge-github.svg" alt="GitHub">
-  </a>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="footer.svg" alt="System Status Footer" width="100%">
-</div>
