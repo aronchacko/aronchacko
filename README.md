@@ -68,9 +68,10 @@
   <img src="header-what-i-build.svg" alt="WHAT I BUILD" width="100%">
 </div>
 
-<table>
+<div align="center">
+<table align="center" width="100%">
 <tr>
-<td width="50%">
+<td width="50%" align="left">
 
 #### `01 / ROBOTICS`
 - Industrial robotic arms
@@ -81,7 +82,7 @@
 - Digital twins
 
 </td>
-<td width="50%">
+<td width="50%" align="left">
 
 #### `02 / AI & COMPUTER VISION`
 - Object detection
@@ -94,7 +95,7 @@
 </td>
 </tr>
 <tr>
-<td>
+<td width="50%" align="left">
 
 #### `03 / EMBEDDED & IoT`
 - ESP32
@@ -106,7 +107,7 @@
 - IoT
 
 </td>
-<td>
+<td width="50%" align="left">
 
 #### `04 / SOFTWARE`
 - Python
@@ -121,6 +122,7 @@
 </td>
 </tr>
 </table>
+</div>
 
 <div align="center">
   <img src="divider.svg" alt="Divider" width="100%">
@@ -154,7 +156,8 @@ BUILDING:
   <img src="header-projects.svg" alt="PROJECT CARDS" width="100%">
 </div>
 
-<table>
+<div align="center">
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -212,6 +215,7 @@ High-fidelity simulation environment mapped to physical robots to train reinforc
 </td>
 </tr>
 </table>
+</div>
 
 <div align="center">
   <img src="divider.svg" alt="Divider" width="100%">
